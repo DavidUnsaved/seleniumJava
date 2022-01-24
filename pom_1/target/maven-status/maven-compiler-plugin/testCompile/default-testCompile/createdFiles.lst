@@ -1,0 +1,9 @@
+Utils\Browser.class
+Pages\FilePage.class
+Utils\DriverFactory$1.class
+Pages\ImageActions.class
+Pages\BasePage.class
+Pages\ChallengingDom.class
+Pages\ShiftingContent.class
+Utils\DriverFactory.class
+SeleniumTaskPOM.class

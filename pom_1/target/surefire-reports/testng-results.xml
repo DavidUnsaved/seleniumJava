@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Tests" duration-ms="9974" started-at="2021-02-02T23:12:24Z" finished-at="2021-02-02T23:12:34Z">
+    <groups>
+    </groups>
+    <test name="Automation Test" duration-ms="9974" started-at="2021-02-02T23:12:24Z" finished-at="2021-02-02T23:12:34Z">
+      <class name="SeleniumTaskPOM">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:SeleniumTaskPOM@52aa2946]" name="setUp" is-config="true" duration-ms="2707" started-at="2021-02-03T03:12:24Z" finished-at="2021-02-03T03:12:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AutoTest()[pri:0, instance:SeleniumTaskPOM@52aa2946]" name="AutoTest" duration-ms="6245" started-at="2021-02-03T03:12:27Z" finished-at="2021-02-03T03:12:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AutoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SeleniumTaskPOM@52aa2946]" name="tearDown" is-config="true" duration-ms="868" started-at="2021-02-03T03:12:33Z" finished-at="2021-02-03T03:12:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SeleniumTaskPOM -->
+    </test> <!-- Automation Test -->
+  </suite> <!-- Tests -->
+</testng-results>
